@@ -19,6 +19,7 @@ test("Popup validations", async ({page}) => {
 
 test("Screenshot & Visual comparision", async ({page})=>{
 
+
     await page.goto("https://rahulshettyacademy.com/AutomationPractice/");
     await expect(page.locator("#displayed-text")).toBeVisible();
     await page.locator('#displayed-text').screenshot({path:'locatorscreenshot.png'});
