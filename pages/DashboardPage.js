@@ -10,6 +10,7 @@ constructor(page)
 
 }
 
+
 async searchProductAddCart(productName)
 {
    
