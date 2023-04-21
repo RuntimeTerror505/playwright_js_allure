@@ -1,0 +1,9 @@
+[
+  [32m'Soil'[39m,
+  [32m'zara coat 3'[39m,
+  [32m'adidas original'[39m,
+  [32m'iphone 13 pro'[39m,
+  [32m'Laptop'[39m,
+  [32m'Automation'[39m,
+  [32m'Automation'[39m
+]
