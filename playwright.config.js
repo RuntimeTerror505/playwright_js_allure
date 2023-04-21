@@ -12,6 +12,7 @@ const config = {
   timeout: 30 * 1000,
   expect: {
 
+
     timeout: 5000
   },
 
